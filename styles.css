@@ -1,3 +1,60 @@
 .Titulo {
     text-align: center;
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fcfcfc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background-color: #06aef0;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #333;
+}
+nav {
+    background-color: #000000;
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: #FFF;
+    padding: 10px;
+    margin: 0 5px;
+}
+section {
+    padding: 20px;
+}
+footer {
+    background-color: #333;
+    color: #FFF;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.titulo1{
+    text-align: left;
+
+}
+.titulo2{
+    text-align: left;
+}
+.titulo3{
+    text-align: left;
+}
+.titulo4{
+    text-align: left;
+}
+.titulo5{
+    text-align: left;
+}
