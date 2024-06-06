@@ -2,9 +2,12 @@
     text-align: center;
 }
 body {
+    background-image: url(pedestal-futurista-para-apresentacao-de-produtos-estande-de-produtos-em-branco_35913-1850.avif);
+    background-size:contain;
+    background-size: cover;
     font-family: Arial, sans-serif;
-    background-color: #fcfcfc;
-    color: #333;
+    background-color: #000000;
+    color: #fafafa;
     margin: 0;
     padding: 0;
     text-align: center;
